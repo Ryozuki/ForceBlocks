@@ -1,0 +1,8 @@
+language.name=English
+language.region=US
+language.code=en_US
+
+tile.forceblocks.speedJumpBlock.name=SpeedJump Block
+tile.forceblocks.jumpBlock.name=Jump Block
+tile.forceblocks.speedBlock.name=Speed Block
+itemGroup.forceblocks.tabForceBlocks=Force Blocks

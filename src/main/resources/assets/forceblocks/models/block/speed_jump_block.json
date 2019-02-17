@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "forceblocks:blocks/speed_jump_block"
+  }
+}

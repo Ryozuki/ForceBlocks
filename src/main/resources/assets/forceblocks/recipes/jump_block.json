@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "axa",
+    "xbx",
+    "axa"
+  ],
+  "key": {
+    "a": {
+      "type":"forge:ore_dict",
+      "ore": "dustRedstone"
+    },
+    "x": {
+      "type":"forge:ore_dict",
+      "ore": "stone"
+    },
+    "b": {
+      "type":"forge:ore_dict",
+      "ore": "blockQuartz"
+    }
+  },
+  "result": {
+    "item": "forceblocks:jump_block"
+  }
+}
