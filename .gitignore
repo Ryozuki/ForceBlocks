@@ -11,7 +11,7 @@ gradle-app.setting
 *.iml
 *.iws
 *.ipr
-.out/
+out/
 
 ## Eclipse
 
