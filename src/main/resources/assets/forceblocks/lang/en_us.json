@@ -1,0 +1,10 @@
+{
+  "language": "English",
+  "language.region": "US",
+  "language.code": "en_US",
+
+  "block.forceblocks.speed_jump_block": "SpeedJump Block",
+  "block.forceblocks.jump_block": "Jump Block",
+  "block.forceblocks.speed_block": "Speed Block",
+  "itemGroup.forceblocks": "Force Blocks"
+}

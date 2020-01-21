@@ -1,6 +1,6 @@
 {
   "parent": "block/cube_all",
   "textures": {
-    "all": "forceblocks:blocks/jump_block"
+    "all": "forceblocks:block/jump_block"
   }
 }

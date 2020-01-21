@@ -1,9 +1,0 @@
-[{
-  "modid": "forceblocks",
-  "name": "Force Blocks",
-  "description": "This mod adds blocks that will apply a force to you when walking over them.",
-  "version": "1.0.0.0",
-  "mcversion": "${mcversion}",
-  "url": "https://ryozuki.xyz/minecraft/forceblocks",
-  "authorList": ["Ryozuki"]
-}]
